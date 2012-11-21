@@ -1,0 +1,9 @@
+*.html
+*.pdf
+*.aux
+*.log
+.DS_Store
+*.class
+*.gif
+*.css
+*/doc/*
